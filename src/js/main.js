@@ -18,7 +18,7 @@ Demo  = function(){
     // do me a favor, don't be lazy. There is nothing worse than coming behind someone only to find a variable
     // named 'j' on line 2376 of someone 2 million+ line code base, and you have no idea what j is used for.
     // have fun tracking that developer down on a kill bill mission.
-    this.photoBooth =  PhotoBooth;
+
     this.timeLine = new TimelineLite({onComplete:null});
     this.panel = $(".panel");
     this.header = $(".panel header");

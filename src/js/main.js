@@ -1,5 +1,5 @@
 /*
- * Do yourselves a favor, comment the shit out of your code
+ * Do yourselves a favor, comment your code well
  * Leave yourself notes, reminders, to-do's and keep it clear.
  * No developer I have met has ever complained about someone
  * providing GOOD documentation to their code and approach to a problem.
